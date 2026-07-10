@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://umarfaqih-20003.github.io/tahu-sehat-sari/sitemap.xml
